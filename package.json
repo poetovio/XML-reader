@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "eyes": "^0.1.8",
     "fs": "^0.0.1-security",
     "requirejs": "^2.3.6",
     "xml2js": "^0.4.23"
