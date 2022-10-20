@@ -21,9 +21,41 @@ parser.parseString(podjetje, (err ,result) => {
 let urnik2021 = urnikJSON.Urnik.Leto[0];
 let urnik2022 = urnikJSON.Urnik.Leto[1];
 
+let index = 0;
+let minVrednost = 100000;
 
+console.log(urnik2022.Teden[0].Torek[0].Zaposlen.length)
 
-console.log(urnik2022);
+/*
+urnik2022.Teden.filter((teden, i) => {
+    if(teden.Ponedeljek[0].Zaposlen.length < minVrednost) {
+        index = i;
+        minVrednost = teden.Ponedeljek[0].Zaposlen.length;
+    }
+});
+*/
+
+console.log('V ' + (1 + index) + '. tednu je bilo v ponedeljek najmanj v pisarni. Bilo jih je ' + minVrednost);
+
+urnik2022.Teden.filter((teden, i) => {
+    if(teden.Torek[0].Zaposlen == null) {
+        console.log('Prazen teden!');
+    } else {
+
+        console.log(teden.Torek[0].Zaposlen.length);
+    }
+});
+
+/*
+urnik2022.Teden.filter((teden, i) => {
+    if(teden.Torek[0].Zaposlen.length < minVrednost) {
+        index = i;
+        minVrednost = teden.Torek[0].Zaposlen.length;
+    }
+});
+console.log('V ' + (1 + index) + '. tednu je bilo v torek najmanj v pisarni. Bilo jih je ' + minVrednost);
+
+*/
 
 /*
 let podjetjeNovo = JSON.parse(JSON.stringify(podjetjeJSON)).Podjetje;

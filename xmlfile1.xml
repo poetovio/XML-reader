@@ -1,66 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Podjetje>
-    <Podatki>
-        <Naziv>Podjetje</Naziv>
-        <Trr>2894643829</Trr>
-        <Naslov>Trubarjeva cesta 57</Naslov>
-    </Podatki>
-    <Osebje>
-        <Direktor>
-            <Ime>Urban</Ime>
-            <Priimek>Vižintin</Priimek>
-            <Davcna></Davcna>
-        </Direktor>
-        <Zaposleni>
-            <Zaposlen id="1">
-                <Ime>Peter</Ime>
-                <Priimek>Dernovšek</Priimek>
-                <Naslov>Hrastnikova 7</Naslov>
-                <Spol>M</Spol>
-                <Starost>37</Starost>
-            </Zaposlen>
-            <Zaposlen id="2">
-                <Ime>Sabina</Ime>
-                <Priimek>Dronova</Priimek>
-                <Naslov>Slovenska cesta 27</Naslov>
-                <Spol>Z</Spol>
-                <Starost>26</Starost>
-            </Zaposlen>
-            <Zaposlen id="3">
-                <Ime>Robert</Ime>
-                <Priimek>Pešut</Priimek>
-                <Naslov>Levstikova 3</Naslov>
-                <Spol>M</Spol>
-                <Starost>56</Starost>
-            </Zaposlen>
-            <Zaposlen id="4">
-                <Ime>Hilda</Ime>
-                <Priimek>Nosova</Priimek>
-                <Naslov>Oblačna ulica 99</Naslov>
-                <Spol>Z</Spol>
-                <Starost>63</Starost>
-            </Zaposlen>
-            <Zaposlen id="5">
-                <Ime>Jože</Ime>
-                <Priimek>Potrebuješ</Priimek>
-                <Naslov>Furlanska 2</Naslov>
-                <Spol>M</Spol>
-                <Starost>19</Starost>
-            </Zaposlen>
-            <Zaposlen id="6">
-                <Ime>Samo</Ime>
-                <Priimek>Sekalec</Priimek>
-                <Naslov>Turnerjeva 42</Naslov>
-                <Spol>M</Spol>
-                <Starost>29</Starost>
-            </Zaposlen>
-            <Zaposlen id="7">
-                <Ime>Dunja</Ime>
-                <Priimek>Poznič</Priimek>
-                <Naslov>Finska ulica 97</Naslov>
-                <Spol>Z</Spol>
-                <Starost>31</Starost>
-            </Zaposlen>
-        </Zaposleni>
-    </Osebje>
-</Podjetje>
+<Zaposleni>
+    <Zaposlen id="1">
+        <Ime>Peter</Ime>
+        <Priimek>Dernovšek</Priimek>
+        <Naslov>Hrastnikova 7</Naslov>
+        <Spol>M</Spol>
+        <Starost>37</Starost>
+    </Zaposlen>
+    <Zaposlen id="2">
+        <Ime>Sabina</Ime>
+        <Priimek>Dronova</Priimek>
+        <Naslov>Slovenska cesta 27</Naslov>
+        <Spol>Z</Spol>
+        <Starost>26</Starost>
+    </Zaposlen>
+    <Zaposlen id="3">
+        <Ime>Robert</Ime>
+        <Priimek>Pešut</Priimek>
+        <Naslov>Levstikova 3</Naslov>
+        <Spol>M</Spol>
+        <Starost>56</Starost>
+    </Zaposlen>
+    <Zaposlen id="4">
+        <Ime>Hilda</Ime>
+        <Priimek>Nosova</Priimek>
+        <Naslov>Oblačna ulica 99</Naslov>
+        <Spol>Z</Spol>
+        <Starost>63</Starost>
+    </Zaposlen>
+    <Zaposlen id="5">
+        <Ime>Jože</Ime>
+        <Priimek>Potrebuješ</Priimek>
+        <Naslov>Furlanska 2</Naslov>
+        <Spol>M</Spol>
+        <Starost>19</Starost>
+    </Zaposlen>
+    <Zaposlen id="6">
+        <Ime>Samo</Ime>
+        <Priimek>Sekalec</Priimek>
+        <Naslov>Turnerjeva 42</Naslov>
+        <Spol>M</Spol>
+        <Starost>29</Starost>
+    </Zaposlen>
+    <Zaposlen id="7">
+        <Ime>Dunja</Ime>
+        <Priimek>Poznič</Priimek>
+        <Naslov>Finska ulica 97</Naslov>
+        <Spol>Z</Spol>
+        <Starost>31</Starost>
+    </Zaposlen>
+</Zaposleni>

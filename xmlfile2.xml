@@ -1,639 +1,635 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Urnik>
-    <Leto id="2021">
-        <Teden id="1">
-            <Ponedeljek>
-                <Zaposlen id="3">
-                    <Prihod>8:00</Prihod>
-                    <Odhod>16:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="2">
-                    <Prihod>9:00</Prihod>
-                    <Odhod>13:00</Odhod>
-                </Zaposlen>
-            </Ponedeljek>
-            <Torek>
-                <Zaposlen id="6">
-                    <Prihod>7:00</Prihod>
-                    <Odhod>14:00</Odhod>
-                </Zaposlen>
-            </Torek>
-            <Sreda>
-                <Zaposlen id="3">
-                    <Prihod>6:00</Prihod>
-                    <Odhod>14:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="2">
-                    <Prihod>10:00</Prihod>
-                    <Odhod>19:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="4">
-                    <Prihod>11:00</Prihod>
-                    <Odhod>13:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="1">
-                    <Prihod>8:00</Prihod>
-                    <Odhod>10:00</Odhod>
-                </Zaposlen>
-            </Sreda>
-            <Cetrtek>
-                <Zaposlen id="3">
-                    <Prihod>6:00</Prihod>
-                    <Odhod>15:00</Odhod>
-                </Zaposlen>
-            </Cetrtek>
-            <Petek>
-                <Zaposlen id="1">
-                    <Prihod>8:00</Prihod>
-                    <Odhod>16:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="2">
-                    <Prihod>9:00</Prihod>
-                    <Odhod>17:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="3">
-                    <Prihod>7:00</Prihod>
-                    <Odhod>11:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="4">
-                    <Prihod>15:00</Prihod>
-                    <Odhod>21:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="5">
-                    <Prihod>10:00</Prihod>
-                    <Odhod>22:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="6">
-                    <Prihod>8:00</Prihod>
-                    <Odhod>10:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="7">
-                    <Prihod>8:00</Prihod>
-                    <Odhod>16:00</Odhod>
-                </Zaposlen>
-            </Petek>
-        </Teden>
-        <Teden id="2">
-            <Ponedeljek>
-                <Zaposlen id="4">
-                    <Prihod>8:00</Prihod>
-                    <Odhod>9:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="3">
-                    <Prihod>10:00</Prihod>
-                    <Odhod>16:00</Odhod>
-                </Zaposlen>
-            </Ponedeljek>
-            <Torek>
-                <Zaposlen id="1">
-                    <Prihod>11:00</Prihod>
-                    <Odhod>20:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="2">
-                    <Prihod>6:00</Prihod>
-                    <Odhod>14:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="3">
-                    <Prihod>12:00</Prihod>
-                    <Odhod>15:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="4">
-                    <Prihod>8:00</Prihod>
-                    <Odhod>10:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="6">
-                    <Prihod>9:00</Prihod>
-                    <Odhod>17:00</Odhod>
-                </Zaposlen>
-            </Torek>
-            <Sreda>
-                <Zaposlen id="7">
-                    <Prihod>8:00</Prihod>
-                    <Odhod>10:00</Odhod>
-                </Zaposlen>
-            </Sreda>
-            <Cetrtek>
-                <Zaposlen id="3">
-                    <Prihod>11:00</Prihod>
-                    <Odhod>16:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="2">
-                    <Prihod>15:00</Prihod>
-                    <Odhod>20:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="6">
-                    <Prihod>8:00</Prihod>
-                    <Odhod>9:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="5">
-                    <Prihod>17:00</Prihod>
-                    <Odhod>18:00</Odhod>
-                </Zaposlen>
-            </Cetrtek>
-            <Petek>
-            </Petek>
-        </Teden>
-    </Leto>
-    <Leto id="2022">
-        <Teden id="1">
-            <Ponedeljek>
-                <Zaposlen id="1">
-                    <Prihod>17:00</Prihod>
-                    <Odhod>18:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="5">
-                    <Prihod>20:00</Prihod>
-                    <Odhod>21:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="7">
-                    <Prihod>8:00</Prihod>
-                    <Odhod>17:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="3">
-                    <Prihod>10:00</Prihod>
-                    <Odhod>18:00</Odhod>
-                </Zaposlen>
-            </Ponedeljek>
-            <Torek>
-                <Zaposlen id="2">
-                    <Prihod>8:00</Prihod>
-                    <Odhod>9:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="3">
-                    <Prihod>10:00</Prihod>
-                    <Odhod>16:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="1">
-                    <Prihod>15:00</Prihod>
-                    <Odhod>19:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="6">
-                    <Prihod>21:00</Prihod>
-                    <Odhod>22:00</Odhod>
-                </Zaposlen>
-            </Torek>
-            <Sreda>
-                <Zaposlen id="3">
-                    <Prihod>18:00</Prihod>
-                    <Odhod>19:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="2">
-                    <Prihod>14:00</Prihod>
-                    <Odhod>17:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="4">
-                    <Prihod>9:00</Prihod>
-                    <Odhod>13:00</Odhod>
-                </Zaposlen>
-            </Sreda>
-            <Cetrtek>
-                <Zaposlen id="3">
-                    <Prihod>10:00</Prihod>
-                    <Odhod>15:00</Odhod>
-                </Zaposlen>
-            </Cetrtek>
-            <Petek>
-                <Zaposlen id="1">
-                    <Prihod>8:00</Prihod>
-                    <Odhod>16:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="2">
-                    <Prihod>10:00</Prihod>
-                    <Odhod>12:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="3">
-                    <Prihod>14:00</Prihod>
-                    <Odhod>18:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="4">
-                    <Prihod>20:00</Prihod>
-                    <Odhod>22:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="5">
-                    <Prihod>8:00</Prihod>
-                    <Odhod>14:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="6">
-                    <Prihod>15:00</Prihod>
-                    <Odhod>18:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="7">
-                    <Prihod>18:00</Prihod>
-                    <Odhod>21:00</Odhod>
-                </Zaposlen>
-            </Petek>
-        </Teden>
-        <Teden id="2">
-            <Ponedeljek>
-                <Zaposlen id="4">
-                    <Prihod>9:00</Prihod>
-                    <Odhod>11:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="3">
-                    <Prihod>5:00</Prihod>
-                    <Odhod>8:00</Odhod>
-                </Zaposlen>
-            </Ponedeljek>
-            <Torek>
-                <Zaposlen id="1">
-                    <Prihod>9:00</Prihod>
-                    <Odhod>10:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="2">
-                    <Prihod>11:00</Prihod>
-                    <Odhod>13:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="3">
-                    <Prihod>8:00</Prihod>
-                    <Odhod>16:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="4">
-                    <Prihod>15:00</Prihod>
-                    <Odhod>20:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="6">
-                    <Prihod>20:00</Prihod>
-                    <Odhod>23:00</Odhod>
-                </Zaposlen>
-            </Torek>
-            <Sreda>
-                <Zaposlen id="7">
-                    <Prihod>8:00</Prihod>
-                    <Odhod>9:00</Odhod>
-                </Zaposlen>
-            </Sreda>
-            <Cetrtek>
-                <Zaposlen id="3">
-                    <Prihod>9:00</Prihod>
-                    <Odhod>17:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="2">
-                    <Prihod>10:00</Prihod>
-                    <Odhod>15:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="6">
-                    <Prihod>11:00</Prihod>
-                    <Odhod>12:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="5">
-                    <Prihod>8:00</Prihod>
-                    <Odhod>16:00</Odhod>
-                </Zaposlen>
-            </Cetrtek>
-            <Petek>
-            </Petek>
-        </Teden>
-        <Teden id="3">
-            <Ponedeljek>
-                <Zaposlen id="4">
-                    <Prihod>10:00</Prihod>
-                    <Odhod>12:00</Odhod>
-                </Zaposlen>
-            </Ponedeljek>
-            <Torek>
-            </Torek>
-            <Sreda>
-                <Zaposlen id="1">
-                    <Prihod>15:00</Prihod>
-                    <Odhod>18:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="5">
-                    <Prihod>13:00</Prihod>
-                    <Odhod>14:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="6">
-                    <Prihod>7:00</Prihod>
-                    <Odhod>15:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="7">
-                    <Prihod>9:00</Prihod>
-                    <Odhod>19:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="3">
-                    <Prihod>21:00</Prihod>
-                    <Odhod>23:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="2">
-                    <Prihod>8:00</Prihod>
-                    <Odhod>9:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="4">
-                    <Prihod>10:00</Prihod>
-                    <Odhod>12:00</Odhod>
-                </Zaposlen>
-            </Sreda>
-            <Cetrtek>
-                <Zaposlen id="3">
-                    <Prihod>15:00</Prihod>
-                    <Odhod>17:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="1">
-                    <Prihod>10:00</Prihod>
-                    <Odhod>12:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="2">
-                    <Prihod>7:00</Prihod>
-                    <Odhod>10:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="4">
-                    <Prihod>13:00</Prihod>
-                    <Odhod>15:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="7">
-                    <Prihod>9:00</Prihod>
-                    <Odhod>10:00</Odhod>
-                </Zaposlen>
-            </Cetrtek>
-            <Petek>
-                <Zaposlen id="1">
-                    <Prihod>17:00</Prihod>
-                    <Odhod>18:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="2">
-                    <Prihod>6:00</Prihod>
-                    <Odhod>8:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="3">
-                    <Prihod>10:00</Prihod>
-                    <Odhod>11:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="4">
-                    <Prihod>18:00</Prihod>
-                    <Odhod>21:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="5">
-                    <Prihod>22:00</Prihod>
-                    <Odhod>23:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="6">
-                    <Prihod>21:00</Prihod>
-                    <Odhod>22:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="7">
-                    <Prihod>8:00</Prihod>
-                    <Odhod>9:00</Odhod>
-                </Zaposlen>
-            </Petek>
-        </Teden>
-        <Teden id="4">
-            <Ponedeljek>
-                <Zaposlen id="1">
-                    <Prihod>10:00</Prihod>
-                    <Odhod>11:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="2">
-                    <Prihod>9:00</Prihod>
-                    <Odhod>16:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="4">
-                    <Prihod>10:00</Prihod>
-                    <Odhod>15:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="6">
-                    <Prihod>16:00</Prihod>
-                    <Odhod>18:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="5">
-                    <Prihod>14:00</Prihod>
-                    <Odhod>17:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="7">
-                    <Prihod>9:00</Prihod>
-                    <Odhod>13:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="3">
-                    <Prihod>8:00</Prihod>
-                    <Odhod>17:00</Odhod>
-                </Zaposlen>
-            </Ponedeljek>
-            <Torek>
-                <Zaposlen id="2">
-                    <Prihod>9:00</Prihod>
-                    <Odhod>10:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="3">
-                    <Prihod>12:00</Prihod>
-                    <Odhod>20:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="1">
-                    <Prihod>8:00</Prihod>
-                    <Odhod>9:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="6">
-                    <Prihod>10:00</Prihod>
-                    <Odhod>17:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="4">
-                    <Prihod>16:00</Prihod>
-                    <Odhod>20:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="5">
-                    <Prihod>21:00</Prihod>
-                    <Odhod>22:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="7">
-                    <Prihod>7:00</Prihod>
-                    <Odhod>15:00</Odhod>
-                </Zaposlen>
-            </Torek>
-            <Sreda>
-            </Sreda>
-            <Cetrtek>
-                <Zaposlen id="3">
-                    <Prihod>6:00</Prihod>
-                    <Odhod>14:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="1">
-                    <Prihod>9:00</Prihod>
-                    <Odhod>12:00</Odhod>
-                </Zaposlen>
-            </Cetrtek>
-            <Petek>
-                <Zaposlen id="4">
-                    <Prihod>10:00</Prihod>
-                    <Odhod>14:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="5">
-                    <Prihod>15:00</Prihod>
-                    <Odhod>19:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="6">
-                    <Prihod>20:00</Prihod>
-                    <Odhod>22:00</Odhod>
-                </Zaposlen>
-            </Petek>
-        </Teden>
-        <Teden id="5">
-            <Ponedeljek>
-                <Zaposlen id="5">
-                    <Prihod>18:00</Prihod>
-                    <Odhod>21:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="7">
-                    <Prihod>20:00</Prihod>
-                    <Odhod>23:00</Odhod>
-                </Zaposlen>
-            </Ponedeljek>
-            <Torek>
-                <Zaposlen id="2">
-                    <Prihod>15:00</Prihod>
-                    <Odhod>18:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="3">
-                    <Prihod>9:00</Prihod>
-                    <Odhod>16:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="1">
-                    <Prihod>15:00</Prihod>
-                    <Odhod>10:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="6">
-                    <Prihod>16:00</Prihod>
-                    <Odhod>18:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="5">
-                    <Prihod>9:00</Prihod>
-                    <Odhod>10:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="7">
-                    <Prihod>18:00</Prihod>
-                    <Odhod>21:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="4">
-                    <Prihod>14:00</Prihod>
-                    <Odhod>17:00</Odhod>
-                </Zaposlen>
-            </Torek>
-            <Sreda>
-                <Zaposlen id="3">
-                    <Prihod>7:00</Prihod>
-                    <Odhod>9:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="2">
-                    <Prihod>10:00</Prihod>
-                    <Odhod>15:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="1">
-                    <Prihod>6:00</Prihod>
-                    <Odhod>9:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="4">
-                    <Prihod>10:00</Prihod>
-                    <Odhod>20:00</Odhod>
-                </Zaposlen>
-            </Sreda>
-            <Cetrtek>
-                <Zaposlen id="3">
-                    <Prihod>8:00</Prihod>
-                    <Odhod>9:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="1">
-                    <Prihod>10:00</Prihod>
-                    <Odhod>13:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="2">
-                    <Prihod>14:00</Prihod>
-                    <Odhod>23:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="4">
-                    <Prihod>15:00</Prihod>
-                    <Odhod>16:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="5">
-                    <Prihod>8:00</Prihod>
-                    <Odhod>10:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="6">
-                    <Prihod>9:00</Prihod>
-                    <Odhod>11:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="7">
-                    <Prihod>10:00</Prihod>
-                    <Odhod>16:00</Odhod>
-                </Zaposlen>
-            </Cetrtek>
-            <Petek>
-            </Petek>
-        </Teden>
-        <Teden id="6">
-            <Ponedeljek>
-                <Zaposlen id="4">
-                    <Prihod>5:00</Prihod>
-                    <Odhod>12:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="2">
-                    <Prihod>13:00</Prihod>
-                    <Odhod>17:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="6">
-                    <Prihod>15:00</Prihod>
-                    <Odhod>17:00</Odhod>
-                </Zaposlen>
-            </Ponedeljek>
-            <Torek>
-            </Torek>
-            <Sreda>
-                <Zaposlen id="3">
-                    <Prihod>5:00</Prihod>
-                    <Odhod>7:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="2">
-                    <Prihod>8:00</Prihod>
-                    <Odhod>13:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="1">
-                    <Prihod>14:00</Prihod>
-                    <Odhod>21:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="4">
-                    <Prihod>21:00</Prihod>
-                    <Odhod>23:00</Odhod>
-                </Zaposlen>
-            </Sreda>
-            <Cetrtek>
-                <Zaposlen id="3">
-                    <Prihod>15:00</Prihod>
-                    <Odhod>16:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="1">
-                    <Prihod>8:00</Prihod>
-                    <Odhod>9:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="5">
-                    <Prihod>17:00</Prihod>
-                    <Odhod>18:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="2">
-                    <Prihod>9:00</Prihod>
-                    <Odhod>11:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="4">
-                    <Prihod>13:00</Prihod>
-                    <Odhod>15:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="7">
-                    <Prihod>8:00</Prihod>
-                    <Odhod>9:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="6">
-                    <Prihod>10:00</Prihod>
-                    <Odhod>16:00</Odhod>
-                </Zaposlen>
-            </Cetrtek>
-            <Petek>        
-                <Zaposlen id="4">
-                    <Prihod>9:00</Prihod>
-                    <Odhod>16:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="5">
-                    <Prihod>14:00</Prihod>
-                    <Odhod>16:00</Odhod>
-                </Zaposlen>
-                <Zaposlen id="6">
-                    <Prihod>18:00</Prihod>
-                    <Odhod>19:00</Odhod>
-                </Zaposlen>
-            </Petek>
-        </Teden>
-    </Leto>
+    <Teden id="1">
+        <Ponedeljek>
+            <Zaposlen id="3">
+                <Prihod>8:00</Prihod>
+                <Odhod>16:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="2">
+                <Prihod>9:00</Prihod>
+                <Odhod>13:00</Odhod>
+            </Zaposlen>
+        </Ponedeljek>
+        <Torek>
+            <Zaposlen id="6">
+                <Prihod>7:00</Prihod>
+                <Odhod>14:00</Odhod>
+            </Zaposlen>
+        </Torek>
+        <Sreda>
+            <Zaposlen id="3">
+                <Prihod>6:00</Prihod>
+                <Odhod>14:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="2">
+                <Prihod>10:00</Prihod>
+                <Odhod>19:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="4">
+                <Prihod>11:00</Prihod>
+                <Odhod>13:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="1">
+                <Prihod>8:00</Prihod>
+                <Odhod>10:00</Odhod>
+            </Zaposlen>
+        </Sreda>
+        <Cetrtek>
+            <Zaposlen id="3">
+                <Prihod>6:00</Prihod>
+                <Odhod>15:00</Odhod>
+            </Zaposlen>
+        </Cetrtek>
+        <Petek>
+            <Zaposlen id="1">
+                <Prihod>8:00</Prihod>
+                <Odhod>16:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="2">
+                <Prihod>9:00</Prihod>
+                <Odhod>17:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="3">
+                <Prihod>7:00</Prihod>
+                <Odhod>11:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="4">
+                <Prihod>15:00</Prihod>
+                <Odhod>21:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="5">
+                <Prihod>10:00</Prihod>
+                <Odhod>22:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="6">
+                <Prihod>8:00</Prihod>
+                <Odhod>10:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="7">
+                <Prihod>8:00</Prihod>
+                <Odhod>16:00</Odhod>
+            </Zaposlen>
+        </Petek>
+    </Teden>
+    <Teden id="2">
+        <Ponedeljek>
+            <Zaposlen id="4">
+                <Prihod>8:00</Prihod>
+                <Odhod>9:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="3">
+                <Prihod>10:00</Prihod>
+                <Odhod>16:00</Odhod>
+            </Zaposlen>
+        </Ponedeljek>
+        <Torek>
+            <Zaposlen id="1">
+                <Prihod>11:00</Prihod>
+                <Odhod>20:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="2">
+                <Prihod>6:00</Prihod>
+                <Odhod>14:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="3">
+                <Prihod>12:00</Prihod>
+                <Odhod>15:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="4">
+                <Prihod>8:00</Prihod>
+                <Odhod>10:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="6">
+                <Prihod>9:00</Prihod>
+                <Odhod>17:00</Odhod>
+            </Zaposlen>
+        </Torek>
+        <Sreda>
+            <Zaposlen id="7">
+                <Prihod>8:00</Prihod>
+                <Odhod>10:00</Odhod>
+            </Zaposlen>
+        </Sreda>
+        <Cetrtek>
+            <Zaposlen id="3">
+                <Prihod>11:00</Prihod>
+                <Odhod>16:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="2">
+                <Prihod>15:00</Prihod>
+                <Odhod>20:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="6">
+                <Prihod>8:00</Prihod>
+                <Odhod>9:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="5">
+                <Prihod>17:00</Prihod>
+                <Odhod>18:00</Odhod>
+            </Zaposlen>
+        </Cetrtek>
+        <Petek>
+        </Petek>
+    </Teden>
+    <Teden id="3">
+        <Ponedeljek>
+            <Zaposlen id="1">
+                <Prihod>17:00</Prihod>
+                <Odhod>18:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="5">
+                <Prihod>20:00</Prihod>
+                <Odhod>21:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="7">
+                <Prihod>8:00</Prihod>
+                <Odhod>17:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="3">
+                <Prihod>10:00</Prihod>
+                <Odhod>18:00</Odhod>
+            </Zaposlen>
+        </Ponedeljek>
+        <Torek>
+            <Zaposlen id="2">
+                <Prihod>8:00</Prihod>
+                <Odhod>9:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="3">
+                <Prihod>10:00</Prihod>
+                <Odhod>16:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="1">
+                <Prihod>15:00</Prihod>
+                <Odhod>19:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="6">
+                <Prihod>21:00</Prihod>
+                <Odhod>22:00</Odhod>
+            </Zaposlen>
+        </Torek>
+        <Sreda>
+            <Zaposlen id="3">
+                <Prihod>18:00</Prihod>
+                <Odhod>19:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="2">
+                <Prihod>14:00</Prihod>
+                <Odhod>17:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="4">
+                <Prihod>9:00</Prihod>
+                <Odhod>13:00</Odhod>
+            </Zaposlen>
+        </Sreda>
+        <Cetrtek>
+            <Zaposlen id="3">
+                <Prihod>10:00</Prihod>
+                <Odhod>15:00</Odhod>
+            </Zaposlen>
+        </Cetrtek>
+        <Petek>
+            <Zaposlen id="1">
+                <Prihod>8:00</Prihod>
+                <Odhod>16:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="2">
+                <Prihod>10:00</Prihod>
+                <Odhod>12:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="3">
+                <Prihod>14:00</Prihod>
+                <Odhod>18:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="4">
+                <Prihod>20:00</Prihod>
+                <Odhod>22:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="5">
+                <Prihod>8:00</Prihod>
+                <Odhod>14:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="6">
+                <Prihod>15:00</Prihod>
+                <Odhod>18:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="7">
+                <Prihod>18:00</Prihod>
+                <Odhod>21:00</Odhod>
+            </Zaposlen>
+        </Petek>
+    </Teden>
+    <Teden id="4">
+        <Ponedeljek>
+            <Zaposlen id="4">
+                <Prihod>9:00</Prihod>
+                <Odhod>11:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="3">
+                <Prihod>5:00</Prihod>
+                <Odhod>8:00</Odhod>
+            </Zaposlen>
+        </Ponedeljek>
+        <Torek>
+            <Zaposlen id="1">
+                <Prihod>9:00</Prihod>
+                <Odhod>10:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="2">
+                <Prihod>11:00</Prihod>
+                <Odhod>13:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="3">
+                <Prihod>8:00</Prihod>
+                <Odhod>16:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="4">
+                <Prihod>15:00</Prihod>
+                <Odhod>20:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="6">
+                <Prihod>20:00</Prihod>
+                <Odhod>23:00</Odhod>
+            </Zaposlen>
+        </Torek>
+        <Sreda>
+            <Zaposlen id="7">
+                <Prihod>8:00</Prihod>
+                <Odhod>9:00</Odhod>
+            </Zaposlen>
+        </Sreda>
+        <Cetrtek>
+            <Zaposlen id="3">
+                <Prihod>9:00</Prihod>
+                <Odhod>17:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="2">
+                <Prihod>10:00</Prihod>
+                <Odhod>15:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="6">
+                <Prihod>11:00</Prihod>
+                <Odhod>12:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="5">
+                <Prihod>8:00</Prihod>
+                <Odhod>16:00</Odhod>
+            </Zaposlen>
+        </Cetrtek>
+        <Petek>
+        </Petek>
+    </Teden>
+    <Teden id="5">
+        <Ponedeljek>
+            <Zaposlen id="4">
+                <Prihod>10:00</Prihod>
+                <Odhod>12:00</Odhod>
+            </Zaposlen>
+        </Ponedeljek>
+        <Torek>
+        </Torek>
+        <Sreda>
+            <Zaposlen id="1">
+                <Prihod>15:00</Prihod>
+                <Odhod>18:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="5">
+                <Prihod>13:00</Prihod>
+                <Odhod>14:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="6">
+                <Prihod>7:00</Prihod>
+                <Odhod>15:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="7">
+                <Prihod>9:00</Prihod>
+                <Odhod>19:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="3">
+                <Prihod>21:00</Prihod>
+                <Odhod>23:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="2">
+                <Prihod>8:00</Prihod>
+                <Odhod>9:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="4">
+                <Prihod>10:00</Prihod>
+                <Odhod>12:00</Odhod>
+            </Zaposlen>
+        </Sreda>
+        <Cetrtek>
+            <Zaposlen id="3">
+                <Prihod>15:00</Prihod>
+                <Odhod>17:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="1">
+                <Prihod>10:00</Prihod>
+                <Odhod>12:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="2">
+                <Prihod>7:00</Prihod>
+                <Odhod>10:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="4">
+                <Prihod>13:00</Prihod>
+                <Odhod>15:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="7">
+                <Prihod>9:00</Prihod>
+                <Odhod>10:00</Odhod>
+            </Zaposlen>
+        </Cetrtek>
+        <Petek>
+            <Zaposlen id="1">
+                <Prihod>17:00</Prihod>
+                <Odhod>18:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="2">
+                <Prihod>6:00</Prihod>
+                <Odhod>8:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="3">
+                <Prihod>10:00</Prihod>
+                <Odhod>11:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="4">
+                <Prihod>18:00</Prihod>
+                <Odhod>21:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="5">
+                <Prihod>22:00</Prihod>
+                <Odhod>23:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="6">
+                <Prihod>21:00</Prihod>
+                <Odhod>22:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="7">
+                <Prihod>8:00</Prihod>
+                <Odhod>9:00</Odhod>
+            </Zaposlen>
+        </Petek>
+    </Teden>
+    <Teden id="6">
+        <Ponedeljek>
+            <Zaposlen id="1">
+                <Prihod>10:00</Prihod>
+                <Odhod>11:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="2">
+                <Prihod>9:00</Prihod>
+                <Odhod>16:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="4">
+                <Prihod>10:00</Prihod>
+                <Odhod>15:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="6">
+                <Prihod>16:00</Prihod>
+                <Odhod>18:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="5">
+                <Prihod>14:00</Prihod>
+                <Odhod>17:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="7">
+                <Prihod>9:00</Prihod>
+                <Odhod>13:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="3">
+                <Prihod>8:00</Prihod>
+                <Odhod>17:00</Odhod>
+            </Zaposlen>
+        </Ponedeljek>
+        <Torek>
+            <Zaposlen id="2">
+                <Prihod>9:00</Prihod>
+                <Odhod>10:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="3">
+                <Prihod>12:00</Prihod>
+                <Odhod>20:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="1">
+                <Prihod>8:00</Prihod>
+                <Odhod>9:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="6">
+                <Prihod>10:00</Prihod>
+                <Odhod>17:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="4">
+                <Prihod>16:00</Prihod>
+                <Odhod>20:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="5">
+                <Prihod>21:00</Prihod>
+                <Odhod>22:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="7">
+                <Prihod>7:00</Prihod>
+                <Odhod>15:00</Odhod>
+            </Zaposlen>
+        </Torek>
+        <Sreda>
+        </Sreda>
+        <Cetrtek>
+            <Zaposlen id="3">
+                <Prihod>6:00</Prihod>
+                <Odhod>14:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="1">
+                <Prihod>9:00</Prihod>
+                <Odhod>12:00</Odhod>
+            </Zaposlen>
+        </Cetrtek>
+        <Petek>
+            <Zaposlen id="4">
+                <Prihod>10:00</Prihod>
+                <Odhod>14:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="5">
+                <Prihod>15:00</Prihod>
+                <Odhod>19:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="6">
+                <Prihod>20:00</Prihod>
+                <Odhod>22:00</Odhod>
+            </Zaposlen>
+        </Petek>
+    </Teden>
+    <Teden id="7">
+        <Ponedeljek>
+            <Zaposlen id="5">
+                <Prihod>18:00</Prihod>
+                <Odhod>21:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="7">
+                <Prihod>20:00</Prihod>
+                <Odhod>23:00</Odhod>
+            </Zaposlen>
+        </Ponedeljek>
+        <Torek>
+            <Zaposlen id="2">
+                <Prihod>15:00</Prihod>
+                <Odhod>18:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="3">
+                <Prihod>9:00</Prihod>
+                <Odhod>16:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="1">
+                <Prihod>15:00</Prihod>
+                <Odhod>10:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="6">
+                <Prihod>16:00</Prihod>
+                <Odhod>18:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="5">
+                <Prihod>9:00</Prihod>
+                <Odhod>10:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="7">
+                <Prihod>18:00</Prihod>
+                <Odhod>21:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="4">
+                <Prihod>14:00</Prihod>
+                <Odhod>17:00</Odhod>
+            </Zaposlen>
+        </Torek>
+        <Sreda>
+            <Zaposlen id="3">
+                <Prihod>7:00</Prihod>
+                <Odhod>9:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="2">
+                <Prihod>10:00</Prihod>
+                <Odhod>15:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="1">
+                <Prihod>6:00</Prihod>
+                <Odhod>9:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="4">
+                <Prihod>10:00</Prihod>
+                <Odhod>20:00</Odhod>
+            </Zaposlen>
+        </Sreda>
+        <Cetrtek>
+            <Zaposlen id="3">
+                <Prihod>8:00</Prihod>
+                <Odhod>9:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="1">
+                <Prihod>10:00</Prihod>
+                <Odhod>13:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="2">
+                <Prihod>14:00</Prihod>
+                <Odhod>23:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="4">
+                <Prihod>15:00</Prihod>
+                <Odhod>16:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="5">
+                <Prihod>8:00</Prihod>
+                <Odhod>10:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="6">
+                <Prihod>9:00</Prihod>
+                <Odhod>11:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="7">
+                <Prihod>10:00</Prihod>
+                <Odhod>16:00</Odhod>
+            </Zaposlen>
+        </Cetrtek>
+        <Petek>
+        </Petek>
+    </Teden>
+    <Teden id="8">
+        <Ponedeljek>
+            <Zaposlen id="4">
+                <Prihod>5:00</Prihod>
+                <Odhod>12:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="2">
+                <Prihod>13:00</Prihod>
+                <Odhod>17:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="6">
+                <Prihod>15:00</Prihod>
+                <Odhod>17:00</Odhod>
+            </Zaposlen>
+        </Ponedeljek>
+        <Torek>
+        </Torek>
+        <Sreda>
+            <Zaposlen id="3">
+                <Prihod>5:00</Prihod>
+                <Odhod>7:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="2">
+                <Prihod>8:00</Prihod>
+                <Odhod>13:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="1">
+                <Prihod>14:00</Prihod>
+                <Odhod>21:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="4">
+                <Prihod>21:00</Prihod>
+                <Odhod>23:00</Odhod>
+            </Zaposlen>
+        </Sreda>
+        <Cetrtek>
+            <Zaposlen id="3">
+                <Prihod>15:00</Prihod>
+                <Odhod>16:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="1">
+                <Prihod>8:00</Prihod>
+                <Odhod>9:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="5">
+                <Prihod>17:00</Prihod>
+                <Odhod>18:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="2">
+                <Prihod>9:00</Prihod>
+                <Odhod>11:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="4">
+                <Prihod>13:00</Prihod>
+                <Odhod>15:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="7">
+                <Prihod>8:00</Prihod>
+                <Odhod>9:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="6">
+                <Prihod>10:00</Prihod>
+                <Odhod>16:00</Odhod>
+            </Zaposlen>
+        </Cetrtek>
+        <Petek>        
+            <Zaposlen id="4">
+                <Prihod>9:00</Prihod>
+                <Odhod>16:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="5">
+                <Prihod>14:00</Prihod>
+                <Odhod>16:00</Odhod>
+            </Zaposlen>
+            <Zaposlen id="6">
+                <Prihod>18:00</Prihod>
+                <Odhod>19:00</Odhod>
+            </Zaposlen>
+        </Petek>
+    </Teden>
 </Urnik>
