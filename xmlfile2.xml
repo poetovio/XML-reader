@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Urnik>
-    <Teden id="1">
+    <Teden st="1">
         <Ponedeljek>
-            <Zaposlen id="3">
+            <Zaposlen id="2">
                 <Prihod>8:00</Prihod>
                 <Odhod>16:00</Odhod>
             </Zaposlen>
-            <Zaposlen id="2">
+            <Zaposlen id="3">
                 <Prihod>9:00</Prihod>
                 <Odhod>13:00</Odhod>
             </Zaposlen>
@@ -18,7 +18,7 @@
             </Zaposlen>
         </Torek>
         <Sreda>
-            <Zaposlen id="3">
+            <Zaposlen id="1">
                 <Prihod>6:00</Prihod>
                 <Odhod>14:00</Odhod>
             </Zaposlen>
@@ -26,11 +26,11 @@
                 <Prihod>10:00</Prihod>
                 <Odhod>19:00</Odhod>
             </Zaposlen>
-            <Zaposlen id="4">
+            <Zaposlen id="3">
                 <Prihod>11:00</Prihod>
                 <Odhod>13:00</Odhod>
             </Zaposlen>
-            <Zaposlen id="1">
+            <Zaposlen id="4">
                 <Prihod>8:00</Prihod>
                 <Odhod>10:00</Odhod>
             </Zaposlen>
@@ -72,13 +72,13 @@
             </Zaposlen>
         </Petek>
     </Teden>
-    <Teden id="2">
+    <Teden st="2">
         <Ponedeljek>
-            <Zaposlen id="4">
+            <Zaposlen id="3">
                 <Prihod>8:00</Prihod>
                 <Odhod>9:00</Odhod>
             </Zaposlen>
-            <Zaposlen id="3">
+            <Zaposlen id="4">
                 <Prihod>10:00</Prihod>
                 <Odhod>16:00</Odhod>
             </Zaposlen>
@@ -132,7 +132,7 @@
         <Petek>
         </Petek>
     </Teden>
-    <Teden id="3">
+    <Teden st="3">
         <Ponedeljek>
             <Zaposlen id="1">
                 <Prihod>17:00</Prihod>
@@ -220,7 +220,7 @@
             </Zaposlen>
         </Petek>
     </Teden>
-    <Teden id="4">
+    <Teden st="4">
         <Ponedeljek>
             <Zaposlen id="4">
                 <Prihod>9:00</Prihod>
@@ -280,7 +280,7 @@
         <Petek>
         </Petek>
     </Teden>
-    <Teden id="5">
+    <Teden st="5">
         <Ponedeljek>
             <Zaposlen id="4">
                 <Prihod>10:00</Prihod>
@@ -372,7 +372,7 @@
             </Zaposlen>
         </Petek>
     </Teden>
-    <Teden id="6">
+    <Teden st="6">
         <Ponedeljek>
             <Zaposlen id="1">
                 <Prihod>10:00</Prihod>
@@ -460,7 +460,7 @@
             </Zaposlen>
         </Petek>
     </Teden>
-    <Teden id="7">
+    <Teden st="7">
         <Ponedeljek>
             <Zaposlen id="5">
                 <Prihod>18:00</Prihod>
@@ -552,7 +552,7 @@
         <Petek>
         </Petek>
     </Teden>
-    <Teden id="8">
+    <Teden st="8">
         <Ponedeljek>
             <Zaposlen id="4">
                 <Prihod>5:00</Prihod>
