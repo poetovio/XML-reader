@@ -27,6 +27,8 @@ urnikJSON.Urnik.Teden.filter((teden, i) => {
     }
 });
 
+inspect(filtriranUrnik);
+
 fs.writeFileSync('tedniPolni.json', JSON.stringify(filtriranUrnik), (err) => {
     if(err) {
         console.err(err);
@@ -34,9 +36,6 @@ fs.writeFileSync('tedniPolni.json', JSON.stringify(filtriranUrnik), (err) => {
     console.log('Datoteka je bila uspesno ustvarjena.');
 })
 
-/*
-let pretvorba = builder.buildObje;ct(JSON.parse(JSON.stringify(filtriranUrnik)));
-*/
 
 fs.readFile('tedniPolni.json', 'utf-8', (err, data) => {
     if(err) { console.err(err); }
