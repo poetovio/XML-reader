@@ -36,12 +36,12 @@
                     <Odhod>10:00</Odhod>
                 </Zaposlen>
             </Sreda>
-            <Četrtek>
+            <Cetrtek>
                 <Zaposlen id="3">
                     <Prihod>6:00</Prihod>
                     <Odhod>15:00</Odhod>
                 </Zaposlen>
-            </Četrtek>
+            </Cetrtek>
             <Petek>
                 <Zaposlen id="1">
                     <Prihod>8:00</Prihod>
@@ -112,7 +112,7 @@
                     <Odhod>10:00</Odhod>
                 </Zaposlen>
             </Sreda>
-            <Četrtek>
+            <Cetrtek>
                 <Zaposlen id="3">
                     <Prihod>11:00</Prihod>
                     <Odhod>16:00</Odhod>
@@ -129,7 +129,7 @@
                     <Prihod>17:00</Prihod>
                     <Odhod>18:00</Odhod>
                 </Zaposlen>
-            </Četrtek>
+            </Cetrtek>
             <Petek>
             </Petek>
         </Teden>
@@ -186,12 +186,12 @@
                     <Odhod>13:00</Odhod>
                 </Zaposlen>
             </Sreda>
-            <Četrtek>
+            <Cetrtek>
                 <Zaposlen id="3">
                     <Prihod>10:00</Prihod>
                     <Odhod>15:00</Odhod>
                 </Zaposlen>
-            </Četrtek>
+            </Cetrtek>
             <Petek>
                 <Zaposlen id="1">
                     <Prihod>8:00</Prihod>
@@ -262,7 +262,7 @@
                     <Odhod>9:00</Odhod>
                 </Zaposlen>
             </Sreda>
-            <Četrtek>
+            <Cetrtek>
                 <Zaposlen id="3">
                     <Prihod>9:00</Prihod>
                     <Odhod>17:00</Odhod>
@@ -279,7 +279,7 @@
                     <Prihod>8:00</Prihod>
                     <Odhod>16:00</Odhod>
                 </Zaposlen>
-            </Četrtek>
+            </Cetrtek>
             <Petek>
             </Petek>
         </Teden>
@@ -322,7 +322,7 @@
                     <Odhod>12:00</Odhod>
                 </Zaposlen>
             </Sreda>
-            <Četrtek>
+            <Cetrtek>
                 <Zaposlen id="3">
                     <Prihod>15:00</Prihod>
                     <Odhod>17:00</Odhod>
@@ -343,7 +343,7 @@
                     <Prihod>9:00</Prihod>
                     <Odhod>10:00</Odhod>
                 </Zaposlen>
-            </Četrtek>
+            </Cetrtek>
             <Petek>
                 <Zaposlen id="1">
                     <Prihod>17:00</Prihod>
@@ -438,7 +438,7 @@
             </Torek>
             <Sreda>
             </Sreda>
-            <Četrtek>
+            <Cetrtek>
                 <Zaposlen id="3">
                     <Prihod>6:00</Prihod>
                     <Odhod>14:00</Odhod>
@@ -447,7 +447,7 @@
                     <Prihod>9:00</Prihod>
                     <Odhod>12:00</Odhod>
                 </Zaposlen>
-            </Četrtek>
+            </Cetrtek>
             <Petek>
                 <Zaposlen id="4">
                     <Prihod>10:00</Prihod>
@@ -522,7 +522,7 @@
                     <Odhod>20:00</Odhod>
                 </Zaposlen>
             </Sreda>
-            <Četrtek>
+            <Cetrtek>
                 <Zaposlen id="3">
                     <Prihod>8:00</Prihod>
                     <Odhod>9:00</Odhod>
@@ -551,7 +551,7 @@
                     <Prihod>10:00</Prihod>
                     <Odhod>16:00</Odhod>
                 </Zaposlen>
-            </Četrtek>
+            </Cetrtek>
             <Petek>
             </Petek>
         </Teden>
@@ -590,7 +590,7 @@
                     <Odhod>23:00</Odhod>
                 </Zaposlen>
             </Sreda>
-            <Četrtek>
+            <Cetrtek>
                 <Zaposlen id="3">
                     <Prihod>15:00</Prihod>
                     <Odhod>16:00</Odhod>
@@ -619,7 +619,7 @@
                     <Prihod>10:00</Prihod>
                     <Odhod>16:00</Odhod>
                 </Zaposlen>
-            </Četrtek>
+            </Cetrtek>
             <Petek>        
                 <Zaposlen id="4">
                     <Prihod>9:00</Prihod>
